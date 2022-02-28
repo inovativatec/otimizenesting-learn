@@ -32,7 +32,7 @@ jobs:
           CI: true
       - name: build documentation
         run: |
-          docfx build
+          docfx build src/OtimizeNesting.Doc/docfx.json
       - name: publish results
         uses: actions/upload-artifact@v2
         with:
