@@ -50,5 +50,5 @@ jobs:
         id: builddeploy
         uses: Azure/webapps-deploy@v2
         with:
-          app-name: otimizedocfxstaging
-          publish-profile: profile.publishsettings
+          credentials: ${{ secrets.AZURE_CREDENTIALS }}
+          app-name: otimizedocfxstaging          
