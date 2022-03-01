@@ -37,7 +37,7 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: _site
-          path: _site/
+          path: src/OtimizeNesting.Doc/_site/
   deploy:
     runs-on: ubuntu-latest
     needs: build
