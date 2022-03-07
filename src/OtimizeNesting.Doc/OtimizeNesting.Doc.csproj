@@ -55,7 +55,9 @@
     <None Include="templates\otimize\partials\footer.tmpl.partial" />
     <None Include="toc.yml" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Content Include="templates\otimize\logo.svg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="..\..\packages\docfx.console.2.59.0\build\docfx.console.targets" Condition="Exists('..\..\packages\docfx.console.2.59.0\build\docfx.console.targets')" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
