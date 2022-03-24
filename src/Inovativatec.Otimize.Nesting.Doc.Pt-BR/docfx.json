@@ -29,6 +29,8 @@
         "files": [
           "api/*.md",
           "articles/**.md",
+          "tutorial/**.md",
+          "tutorial/**.yml",
           "toc.yml",
           "*.md"
         ],
@@ -60,7 +62,7 @@
         ]
       }
     ],
-    "dest": "_site",
+    "dest": "../OtimizeNesting.Doc/_site/pt-BR",
     "template": [
       "default",
       "templates/otimize"

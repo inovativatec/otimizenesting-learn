@@ -8,7 +8,7 @@
         <a href="#top">{{__global.backToTop}}</a>
       </span>
       {{{_appFooter}}}
-      {{^_appFooter}}<span>Otimize Nesting</span>{{/_appFooter}}
+      {{^_appFooter}}<a href="{{_rel}}locale.html">Português (Brasil)</a>{{/_appFooter}}
     </div>
   </div>
 </footer>

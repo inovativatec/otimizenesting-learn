@@ -6,7 +6,9 @@ name: CI
 on:
   # Triggers the workflow on push or pull request events but only for the main branch
   push:
-    branches: [ main ]
+    branches:
+     - main
+     - 'feature/**'
   pull_request:
     branches: [ main ]
 
@@ -33,6 +35,9 @@ jobs:
       - name: build documentation
         run: |
           docfx build src/OtimizeNesting.Doc/docfx.json
+      - name: build documentation pt-BR
+        run: |
+          docfx build src/Inovativatec.Otimize.Nesting.Doc.Pt-BR/docfx.json
       - name: publish results
         uses: actions/upload-artifact@v2
         with:
@@ -58,4 +63,4 @@ jobs:
           app_location: "/" # App source code path
           # api_location: "" # Api source code path - optional
           # output_location: "" # Built app content directory - optional
-          ###### End of Repository/Build Configurations ######
+          ###### End of Repository/Build Configurations ######            

@@ -361,6 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
-/src/OtimizeNesting.Doc/_site
-/src/OtimizeNesting.Doc/log.txt
-/src/OtimizeNesting.Doc/_exported_templates/default
+/**/_site/
+/**/log.txt
+/**/_exported_templates/
