@@ -62,7 +62,7 @@
         ]
       }
     ],
-    "dest": "../OtimizeNesting.Doc/_site/pt-BR",
+    "dest": "../Inovativatec.Otimize.Nesting.Doc/_site/pt-BR",
     "template": [
       "default",
       "templates/otimize"
