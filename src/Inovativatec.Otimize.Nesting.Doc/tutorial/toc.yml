@@ -9,3 +9,7 @@
   # - name: Walkthrough Topics
   #   href: walkthrough/toc.md
   #   homepage: walkthrough/walkthrough_overview.md
+  - name: Getting Started
+  items:
+  - name: Quickstart
+    href: quickstart.md
