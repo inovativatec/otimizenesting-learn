@@ -31,7 +31,6 @@
           "articles/**.md",
           "tutorial/**.md",
           "tutorial/**.yml",
-          "tutorial/**.png",
           "toc.yml",
           "*.md"
         ],
@@ -44,6 +43,7 @@
     "resource": [
       {
         "files": [
+          "**/*.png",
           "images/**"
         ],
         "exclude": [
