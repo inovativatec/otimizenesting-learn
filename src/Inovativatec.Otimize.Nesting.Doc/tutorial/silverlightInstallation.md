@@ -7,7 +7,7 @@ Installing Silverlight PlugIn
 
 This tutorial is for you if you try to access Otimize Nesting by visiting http://members.otimizenesting.com and see the Microsoft Silverlight PlugIn installation. The following illustrates the typical installation prompt you see:
 
-![Microsoft Silverlight PlugIn Missing](silverlightInstallation/missingSilverlightPlugIn.png)
+![Microsoft Silverlight PlugIn Missing](./silverlightInstallation/missingSilverlightPlugIn.png)
 
 This generally happens in case:
 * you are accessing Otimize Nesting from a new or recently restored PC. Or an existing PC using a different user;
