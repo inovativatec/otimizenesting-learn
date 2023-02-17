@@ -1,13 +1,17 @@
 Installing Silverlight PlugIn
 ===============
 
-> This tutorial applies to users currently using Otimize Nesting version that requires the Microsoft Silverlight PlugIn.
+> [!NOTE]
+>This tutorial applies to users currently using Otimize Nesting version that requires the Microsoft Silverlight PlugIn.
 
 ## 1. When do you need this tutorial?
 
 This tutorial is for you if you try to access Otimize Nesting by visiting http://members.otimizenesting.com and see the Microsoft Silverlight PlugIn installation. The following illustrates the typical installation prompt you see:
 
 ![Microsoft Silverlight PlugIn Missing](./silverlightInstallation/missingSilverlightPlugIn.png)
+
+![Microsoft Silverlight PlugIn Missing2](missingSilverlightPlugIn.png)
+
 
 This generally happens in case:
 * you are accessing Otimize Nesting from a new or recently restored PC. Or an existing PC using a different user;
@@ -33,9 +37,11 @@ Still, if you want to keep using the old version while it is support, read the f
 
 [Download and install](https://otimizenesting.blob.core.windows.net/download/Silverlight_x64.exe) Microsoft Silverlight plugin. You can uncheck the two checkboxes that appears during installation. 
 
-> Note 1: You may have Microsoft Silverlight plugin already installed it in your PC. In this case, you can skip the installation.
+> [!NOTE]
+> You may have Microsoft Silverlight plugin already installed it in your PC. In this case, you can skip the installation.
 
-> Note 2: Microsoft Silverlight plugin installer program is no longer available at Microsoft servers, so this one is an installer copy we keep only for support cases.
+> [!NOTE]
+> Microsoft Silverlight plugin installer program is no longer available at Microsoft servers, so this one is an installer copy we keep only for support cases.
 
 ### Part 2: Configuring Microsoft Edge Browser for IE Compatibility Mode
 
