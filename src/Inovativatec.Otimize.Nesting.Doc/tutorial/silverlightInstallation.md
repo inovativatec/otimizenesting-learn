@@ -1,23 +1,22 @@
-Installing Silverlight PlugIn
+Running Otimize Nesting in Microsoft Edge IE Mode
 ===============
 
 > [!NOTE]
 >This tutorial applies to users currently using Otimize Nesting version that requires the Microsoft Silverlight PlugIn.
 
-## 1. When do you need this tutorial?
+## Who need this tutorial?
 
-This tutorial is for you if you try to access Otimize Nesting by visiting http://members.otimizenesting.com and see the Microsoft Silverlight PlugIn installation. The following illustrates the typical installation prompt you see:
+This tutorial is for you if you are trying to access Otimize Nesting by visiting http://members.otimizenesting.com and are being prompted by the Microsoft Silverlight PlugIn installation dialog.
+
+The following image illustrates the typical installation prompt you see:
 
 ![Microsoft Silverlight PlugIn Missing](./silverlightInstallation/missingSilverlightPlugIn.png)
-
-![Microsoft Silverlight PlugIn Missing2](missingSilverlightPlugIn.png)
-
 
 This generally happens in case:
 * you are accessing Otimize Nesting from a new or recently restored PC. Or an existing PC using a different user;
 * your Windows or Microsoft Edge have received updates;
 
-## 3. Why are you being asked to install Silverlight?
+## Why are you being asked to install Silverlight?
 
 Otimize Nesting was developed using a technology that requires Silverlight, a Microsoft web browser plug-in.
 
@@ -31,7 +30,7 @@ The Otimize Nesting version using the Silverlight PlugIn will not longer be upda
 
 Still, if you want to keep using the old version while it is support, read the following steps in the next session.
 
-## 4. Step-by-step guide to configure Otimize Nesting in Microsoft Edge Web Browser
+## How to execute Otimize Nesting in Microsoft Edge Web Browser
 
 ### Part 1: Download and Install Microsoft Silverlight
 
@@ -65,8 +64,9 @@ Step 2: Click the three dots in the upper right corner of the browser window.
 
 Step 3: Select Reload in Internet Explorer Mode.
 
-> Note 3: Currently Microsoft Edge is limiting 
+> [!NOTE]
+> Currently Microsoft Edge is limiting 
 
-## 4. Is there a modern version of this product?
+## Is there a modern version of this product?
 
 Yes. Please [visit our website](www.otimizenesting.com) to discover new products.
