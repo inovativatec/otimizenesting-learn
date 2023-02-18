@@ -1,66 +1,72 @@
-Installing Silverlight PlugIn
+Executando Otimize Nesting no modo IE do Microsoft Edge
 ===============
 
-> This tutorial applies to users currently using Otimize Nesting version that requires the Microsoft Silverlight PlugIn.
+> [!NOTA]
+>Este tutorial se aplica a usuários que usam atualmente a versão Otimize Nesting que requer o plug-in do Microsoft Silverlight.
 
-## 1. When do you need this tutorial?
+## Quem precisa deste tutorial?
 
-This tutorial is for you if you try to access Otimize Nesting by visiting http://members.otimizenesting.com and see the Microsoft Silverlight PlugIn installation. The following illustrates the typical installation prompt you see:
+Este tutorial é para você se estiver tentando acessar o Otimize Nesting visitando http://members.otimizenesting.com e estiver sendo solicitado pela caixa de diálogo de instalação do plug-in do Microsoft Silverlight.
 
-![Microsoft Silverlight PlugIn Missing](instalacaoSilverlight/missingSilverlightPlugIn.png)
+A imagem a seguir ilustra o prompt de instalação típico que você vê:
 
-This generally happens in case:
-* you are accessing Otimize Nesting from a new or recently restored PC. Or an existing PC using a different user;
-* your Windows or Microsoft Edge have received updates;
+![Microsoft Silverlight PlugIn ausente](./instalacaosilverlight/missingSilverlightPlugIn.png)
 
-## 3. Why are you being asked to install Silverlight?
+Isso geralmente acontece no caso:
+* você está acessando o Otimize Nesting de um PC novo ou recentemente restaurado. Ou um PC existente usando um usuário diferente;
+* seu Windows ou Microsoft Edge receberam atualizações;
 
-Otimize Nesting was developed using a technology that requires Silverlight, a Microsoft web browser plug-in.
+## Por que você está sendo solicitado a instalar o Silverlight?
 
-Along the recent years, plug in technology in web browsers have been discontinued and are no longer supported, with the exception of Microsoft Edge, configured to run Otimize Nesting using Internet Explorer compatibility mode.
+Otimize Nesting foi desenvolvido usando uma tecnologia que requer Silverlight, um plug-in de navegador da Microsoft.
 
-It is not 100% clear until when this option will be available, so we recommend using the most recent version of our product. For more details visit our [website](https://www.otimizenesting.com).
+Ao longo dos últimos anos, a tecnologia plug-in em navegadores web foi descontinuada e não é mais suportada, com exceção do Microsoft Edge, configurado para executar o Otimize Nesting usando o modo de compatibilidade do Internet Explorer.
 
-> Details about Microsoft Silverlight technology discontinuation and support can be found on [this page](https://support.microsoft.com/en-us/windows/silverlight-end-of-support-0a3be3c7-bead-e203-2dfd-74f0a64f1788).
+Não está 100% claro até quando esta opção estará disponível, por isso recomendamos o uso da versão mais recente do nosso produto. Para mais detalhes, visite nosso [site](https://www.otimizenesting.com).
 
-The Otimize Nesting version using the Silverlight PlugIn will not longer be update and will not accept new users.
+> Detalhes sobre a descontinuação e suporte da tecnologia Microsoft Silverlight podem ser encontrados em [esta página](https://support.microsoft.com/en-us/windows/silverlight-end-of-support-0a3be3c7-bead-e203-2dfd-74f0a64f1788).
 
-Still, if you want to keep using the old version while it is support, read the following steps in the next session.
+A versão Otimize Nesting usando o plug-in Silverlight não será mais atualizada e não aceitará novos usuários.
 
-## 4. Step-by-step guide to configure Otimize Nesting in Microsoft Edge Web Browser
+Ainda assim, se você quiser continuar usando a versão antiga enquanto ela é compatível, leia as etapas a seguir na próxima sessão.
 
-### Part 1: Download and Install Microsoft Silverlight
+## Como executar Otimize Nesting no Microsoft Edge Web Browser
 
-[Download and install](https://otimizenesting.blob.core.windows.net/download/Silverlight_x64.exe) Microsoft Silverlight plugin. You can uncheck the two checkboxes that appears during installation. 
+### Parte 1: Baixe e instale o Microsoft Silverlight
 
-> Note 1: You may have Microsoft Silverlight plugin already installed it in your PC. In this case, you can skip the installation.
+[Baixe e instale](https://otimizenesting.blob.core.windows.net/download/Silverlight_x64.exe) plugin do Microsoft Silverlight. Você pode desmarcar as duas caixas de seleção que aparecem durante a instalação.
 
-> Note 2: Microsoft Silverlight plugin installer program is no longer available at Microsoft servers, so this one is an installer copy we keep only for support cases.
+> [!NOTA]
+> Você pode ter o plug-in Microsoft Silverlight já instalado em seu PC. Nesse caso, você pode pular a instalação.
 
-### Part 2: Configuring Microsoft Edge Browser for IE Compatibility Mode
+> [!NOTA]
+> O programa instalador do plug-in Microsoft Silverlight não está mais disponível nos servidores da Microsoft, portanto, esta é uma cópia do instalador que mantemos apenas para casos de suporte.
 
-To turn on Internet Explorer mode, use the following steps:
+### Parte 2: Configurando o Microsoft Edge Browser para Modo de Compatibilidade IE
 
-Step 1: In the address bar for Microsoft Edge, type *edge://settings/defaultbrowser* and then click Enter.
+Para ativar o modo Internet Explorer, use as seguintes etapas:
 
-Step 2: Slide the Allow sites to be reloaded in Internet Explorer toggle to ON.
+Etapa 1: na barra de endereço do Microsoft Edge, digite *edge://settings/defaultbrowser* e clique em Enter.
 
-Step 3: Restart Microsoft Edge.
+Etapa 2: deslize o botão Permitir que os sites sejam recarregados no Internet Explorer para LIGADO.
 
-Internet Explorer mode is now enabled. To use Otimize Nesting using Internet Explorer mode in Microsoft Edge, read the next Part.
+Etapa 3: reinicie o Microsoft Edge.
 
-> You can learn more about [Internet Explorer Mode (IE Mode)](https://support.microsoft.com/en-us/microsoft-edge/internet-explorer-mode-in-microsoft-edge-6604162f-e38a-48b2-acd2-682dbac6f0de) for more details.
+O modo Internet Explorer agora está ativado. Para usar Otimize Nesting usando o modo Internet Explorer no Microsoft Edge, leia a próxima parte.
 
-### Part 3: Configure Microsoft Edge Browser to Open Otimize Nesting for IE Compatibility Mode
+> Você pode aprender mais sobre [Modo Internet Explorer (Modo IE)](https://support.microsoft.com/en-us/microsoft-edge/internet-explorer-mode-in-microsoft-edge-6604162f-e38a-48b2-acd2-682dbac6f0de) para mais detalhes.
 
-Step 1: In the address bar for Microsoft Edge, type *members.otimizenesting.com* and then click Enter.
+### Parte 3: Configurar o navegador Microsoft Edge para abrir Otimize o aninhamento para o modo de compatibilidade do IE
 
-Step 2: Click the three dots in the upper right corner of the browser window.
+Etapa 1: na barra de endereços do Microsoft Edge, digite *members.otimizenesting.com* e clique em Enter.
 
-Step 3: Select Reload in Internet Explorer Mode.
+Etapa 2: clique nos três pontos no canto superior direito da janela do navegador.
 
-> Note 3: Currently Microsoft Edge is limiting 
+Passo 3: Selecione Recarregar no Modo Internet Explorer.
 
-## 4. Is there a modern version of this product?
+> [!NOTA]
+> Atualmente o Microsoft Edge está limitando
 
-Yes. Please [visit our website](www.otimizenesting.com) to discover new products.
+## Existe uma versão moderna deste produto?
+
+Sim. Por favor, [visite nosso site](www.otimizenesting.com) para descobrir novos produtos.
