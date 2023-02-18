@@ -1,7 +1,7 @@
 Executando Otimize Nesting no modo IE do Microsoft Edge
 ===============
 
-> [!NOTA]
+> [!NOTE]
 >Este tutorial se aplica a usuários que usam atualmente a versão Otimize Nesting que requer o plug-in do Microsoft Silverlight.
 
 ## Quem precisa deste tutorial?
@@ -36,10 +36,10 @@ Ainda assim, se você quiser continuar usando a versão antiga enquanto ela é c
 
 [Baixe e instale](https://otimizenesting.blob.core.windows.net/download/Silverlight_x64.exe) plugin do Microsoft Silverlight. Você pode desmarcar as duas caixas de seleção que aparecem durante a instalação.
 
-> [!NOTA]
+> [!NOTE]
 > Você pode ter o plug-in Microsoft Silverlight já instalado em seu PC. Nesse caso, você pode pular a instalação.
 
-> [!NOTA]
+> [!NOTE]
 > O programa instalador do plug-in Microsoft Silverlight não está mais disponível nos servidores da Microsoft, portanto, esta é uma cópia do instalador que mantemos apenas para casos de suporte.
 
 ### Parte 2: Configurando o Microsoft Edge Browser para Modo de Compatibilidade IE
@@ -64,7 +64,7 @@ Etapa 2: clique nos três pontos no canto superior direito da janela do navegado
 
 Passo 3: Selecione Recarregar no Modo Internet Explorer.
 
-> [!NOTA]
+> [!NOTE]
 > Atualmente o Microsoft Edge está limitando
 
 ## Existe uma versão moderna deste produto?
