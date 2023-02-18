@@ -43,6 +43,7 @@
     "resource": [
       {
         "files": [
+          "**/*.png",
           "images/**"
         ],
         "exclude": [
