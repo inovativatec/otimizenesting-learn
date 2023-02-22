@@ -64,9 +64,6 @@ Etapa 2: clique nos três pontos no canto superior direito da janela do navegado
 
 Passo 3: Selecione Recarregar no Modo Internet Explorer.
 
-> [!NOTE]
-> Atualmente o Microsoft Edge está limitando
-
 ## Existe uma versão moderna deste produto?
 
 Sim. Por favor, [visite nosso site](www.otimizenesting.com) para descobrir novos produtos.

@@ -64,9 +64,6 @@ Step 2: Click the three dots in the upper right corner of the browser window.
 
 Step 3: Select Reload in Internet Explorer Mode.
 
-> [!NOTE]
-> Currently Microsoft Edge is limiting 
-
 ## Is there a modern version of this product?
 
 Yes. Please [visit our website](www.otimizenesting.com) to discover new products.
