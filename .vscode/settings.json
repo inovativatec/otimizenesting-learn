@@ -1,5 +1,5 @@
 {
-    "cSpell.language": "en",
+    "cSpell.language": "pt-BR,en",
     "spellright.language": [
         "pt"
     ],
@@ -9,6 +9,8 @@
         "plaintext"
     ],
     "cSpell.words": [
-        "Otimize"
+        "Otimize",
+        "otimizenesting",
+        "Silverlight"
     ]
 }

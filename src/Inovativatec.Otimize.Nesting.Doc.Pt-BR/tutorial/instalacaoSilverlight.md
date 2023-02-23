@@ -39,7 +39,7 @@ Ainda assim, se você quiser continuar usando a versão antiga enquanto ela é c
 > [!NOTE]
 > Você pode ter o plug-in Microsoft Silverlight já instalado em seu PC. Nesse caso, você pode pular a instalação.
 
-> [!NOTE]
+> [!NOTA]
 > O programa instalador do plug-in Microsoft Silverlight não está mais disponível nos servidores da Microsoft, portanto, esta é uma cópia do instalador que mantemos apenas para casos de suporte.
 
 ### Parte 2: Configurando o Microsoft Edge Browser para Modo de Compatibilidade IE
