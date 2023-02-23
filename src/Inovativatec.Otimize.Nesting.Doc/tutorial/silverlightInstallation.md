@@ -54,6 +54,7 @@ Step 3: Restart Microsoft Edge.
 
 Internet Explorer mode is now enabled. To use Otimize Nesting using Internet Explorer mode in Microsoft Edge, read the next Part.
 
+> [!TIP]
 > You can learn more about [Internet Explorer Mode (IE Mode)](https://support.microsoft.com/en-us/microsoft-edge/internet-explorer-mode-in-microsoft-edge-6604162f-e38a-48b2-acd2-682dbac6f0de) for more details.
 
 ### Part 3: Configure Microsoft Edge Browser to Open Otimize Nesting for IE Compatibility Mode

@@ -39,7 +39,7 @@ Ainda assim, se você quiser continuar usando a versão antiga enquanto ela é c
 > [!NOTE]
 > Você pode ter o plug-in Microsoft Silverlight já instalado em seu PC. Nesse caso, você pode pular a instalação.
 
-> [!NOTA]
+> [!NOTE]
 > O programa instalador do plug-in Microsoft Silverlight não está mais disponível nos servidores da Microsoft, portanto, esta é uma cópia do instalador que mantemos apenas para casos de suporte.
 
 ### Parte 2: Configurando o Microsoft Edge Browser para Modo de Compatibilidade IE
@@ -54,6 +54,7 @@ Etapa 3: reinicie o Microsoft Edge.
 
 O modo Internet Explorer agora está ativado. Para usar Otimize Nesting usando o modo Internet Explorer no Microsoft Edge, leia a próxima parte.
 
+> [!TIP]
 > Você pode aprender mais sobre [Modo Internet Explorer (Modo IE)](https://support.microsoft.com/en-us/microsoft-edge/internet-explorer-mode-in-microsoft-edge-6604162f-e38a-48b2-acd2-682dbac6f0de) para mais detalhes.
 
 ### Parte 3: Configurar o navegador Microsoft Edge para abrir Otimize o aninhamento para o modo de compatibilidade do IE
