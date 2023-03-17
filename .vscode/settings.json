@@ -1,5 +1,5 @@
 {
-    "cSpell.language": "en",
+    "cSpell.language": "pt-BR,en",
     "spellright.language": [
         "pt"
     ],
@@ -7,5 +7,10 @@
         "markdown",
         "latex",
         "plaintext"
+    ],
+    "cSpell.words": [
+        "Otimize",
+        "otimizenesting",
+        "Silverlight"
     ]
 }
