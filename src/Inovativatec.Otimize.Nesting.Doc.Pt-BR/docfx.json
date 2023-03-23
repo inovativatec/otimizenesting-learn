@@ -63,6 +63,10 @@
         ]
       }
     ],
+    "postProcessors": [ "ExtractSearchIndex" ],
+    "globalMetadata": {
+      "_enableSearch": "true"
+    },
     "dest": "../Inovativatec.Otimize.Nesting.Doc/_site/pt-BR",
     "template": [
       "default",
