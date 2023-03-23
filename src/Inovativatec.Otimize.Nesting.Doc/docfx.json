@@ -63,6 +63,10 @@
         ]
       }
     ],
+    "postProcessors": [ "ExtractSearchIndex" ],
+    "globalMetadata": {
+      "_enableSearch": "true"
+    },
     "dest": "_site",
     "template": [
       "default",
