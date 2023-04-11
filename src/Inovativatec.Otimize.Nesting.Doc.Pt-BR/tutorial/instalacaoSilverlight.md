@@ -34,7 +34,7 @@ Ainda assim, se você quiser continuar usando a versão antiga enquanto ela é c
 
 ### Parte 1: Baixe e instale o Microsoft Silverlight
 
-[Baixe e instale](https://otimizenesting.blob.core.windows.net/download/Silverlight_x64.exe) plugin do Microsoft Silverlight. Você pode desmarcar as duas caixas de seleção que aparecem durante a instalação.
+[Baixe e instale](https://download.otimizenesting.com/download/silverlight_x64.exe) plugin do Microsoft Silverlight. Você pode desmarcar as duas caixas de seleção que aparecem durante a instalação.
 
 > [!NOTE]
 > Você pode ter o plug-in Microsoft Silverlight já instalado em seu PC. Nesse caso, você pode pular a instalação.
