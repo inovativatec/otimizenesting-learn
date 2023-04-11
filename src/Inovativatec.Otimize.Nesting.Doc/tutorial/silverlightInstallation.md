@@ -34,7 +34,7 @@ Still, if you want to keep using the old version while it is support, read the f
 
 ### Part 1: Download and Install Microsoft Silverlight
 
-[Download and install](https://otimizenesting.blob.core.windows.net/download/Silverlight_x64.exe) Microsoft Silverlight plugin. You can uncheck the two checkboxes that appears during installation. 
+[Download and install](https://download.otimizenesting.com/download/silverlight_x64.exe) Microsoft Silverlight plugin. You can uncheck the two checkboxes that appears during installation. 
 
 > [!NOTE]
 > You may have Microsoft Silverlight plugin already installed it in your PC. In this case, you can skip the installation.
