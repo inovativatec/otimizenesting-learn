@@ -3,21 +3,20 @@ Getting Started with *Otimize Nesting*
 
 ## 1. What is *Otimize Nesting*
 
-*Otimize Nesting* is a nesting software, designed for fabricators.It creates optimal cutting layouts to reduce fabrication time, produce faster quotes and minimize waste.​
+*Otimize Nesting* is a nesting software, designed for fabricators. It creates optimal cutting layouts to reduce fabrication time, produce faster quotes and minimize waste.​
 
-> Otimize Nesting helps you save time and get
-more parts on less sheets.
+> Otimize Nesting helps you save time and get more parts on less sheets.
 
 *Otimize Nesting* also has the following cool features:
 
 * **Online Software**: Download the application for the best performance and use the internet to access all your information in any place.
 * **True Shape Optimization**: Automatically finds the best cutting layout for your DXF files, considering the real part geometry.
-* **Fabrication**: Export cutting diagrams to use in your CAM software or directly to `G-Code`.
+* **Fabrication**: Export cutting diagrams to use in your CAM software.
 * **Faster Quotes**: Configure once and calculate automatically materials and operations costs to produce fast quotes and estimates.
 * **Reports**: Reports containing cutting diagrams, machining time, material efficiency, remnants, weight and costs.
 * **Import Cutting Lists**: Import rectangular part lists created in other software and ERP systems.
 * **Cloud Computing**: No need to configure backup, servers, licensing, etc. Updates are installed automatically
-* **Professional Support**: Email, chat, tutorials and online meetings to assist you in having the best experience.
+* **Professional Support**: Email, chat and tutorials to assist you in having the best experience.
 * **Flexible Subscriptions*:Subscribe monthly, with no minimal period, fidelity or extra fees. Different features accordingly to you needs.
 
 ## 2. Register and Install *Otimize Nesting*
@@ -30,6 +29,6 @@ more parts on less sheets.
 
 *Step2.* Create your first nesting
 
-A sample production order is created for you. Open it. You will the sample parts to be cut with these dimensions, quantities, description, etc
+A sample production order is created for you. Open it. You will see the sample parts to be cut with its dimensions, quantities, description, etc.
 
-Now, just navigate to the `NESTING` page and click `make nesting`!
+Now, simply navigate to the `NESTING` page and click `make nesting`!
