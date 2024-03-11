@@ -1,14 +1,9 @@
-- name: Getting Started
+- name: Get Started
   items:
-  - name: Quickstart
-    href: quickstart.md
-  # - name: Intro
-  #   href: intro.md
-  # - name: "HowTo: Filter Out Unwanted APIs"
-  #   href: howto_filter_out_unwanted_apis_attributes.md
-  # - name: Walkthrough Topics
-  #   href: walkthrough/toc.md
-  #   homepage: walkthrough/walkthrough_overview.md
+  - name: Create an account
+    href: creating-an-account.md
+  - name: Install the software
+    href: installing-otimize-nesting.md
 - name: TroubleShooting
   items:
   - name: Silverlight Installation
