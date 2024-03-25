@@ -2,8 +2,6 @@
 # Creating an account on Otimize Nesting
 Create an account to get started with Otimize Nesting.
 
-## About your account on OtimizeNesting.com
-
 To get started with Otimize Nesting, you'll need to create a free account on OtimizeNesting.com and verify your email address. No credit card required.
 
 ## Signing up for a new account
