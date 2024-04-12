@@ -48,7 +48,8 @@
         ],
         "exclude": [
           "obj/**",
-          "_site/**"
+          "_site/**",
+          "favicon.ico"
         ]
       }
     ],

@@ -44,7 +44,8 @@
       {
         "files": [
           "**/*.png",
-          "images/**"
+          "images/**",
+          "favicon.ico"
         ],
         "exclude": [
           "obj/**",
