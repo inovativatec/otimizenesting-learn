@@ -44,12 +44,12 @@
       {
         "files": [
           "**/*.png",
-          "images/**"
+          "images/**",
+          "favicon.ico"
         ],
         "exclude": [
           "obj/**",
-          "_site/**",
-          "favicon.ico"
+          "_site/**"          
         ]
       }
     ],
