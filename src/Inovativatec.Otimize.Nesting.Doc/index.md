@@ -21,7 +21,7 @@ Begin your journey with Otimize Nesting by creating your free account and doing 
 
 
 # Otimize Nesting in Action
-> [!Video https://youtu.be/OvhPKvECAQQ?si=lIygjvjo7bMh0Ax3]
+> [!Video https://www.youtube.com/embed/OvhPKvECAQQ?si=BIuEfmhmWR6qW9R9]
 
 # Features
 
