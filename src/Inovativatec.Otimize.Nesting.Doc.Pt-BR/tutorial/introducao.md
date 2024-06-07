@@ -1,23 +1,23 @@
 # Primeiros Passos
 
-Otimize Nesting é um software de nesting simples de utilizar, mas poderoso, que funciona no seu computador e está disponível para Windows.
+Otimize Nesting Ã© um software de nesting simples de utilizar, mas poderoso, que funciona no seu computador e estÃ¡ disponÃ­vel para Windows.
 
-* Obtenha os melhores planos de corte usando otimização baseada em IA. Em segundos.
+* Obtenha os melhores planos de corte usando otimizaÃ§Ã£o baseada em IA. Em segundos.
 
-* Exportar diagramas de corte para .DXF ou .PDF para visualização ou envio para a máquina de corte.
+* Exportar diagramas de corte para .DXF ou .PDF para visualizaÃ§Ã£o ou envio para a mÃ¡quina de corte.
 
-* Salvar relatórios contendo diagramas de corte, tempo de usinagem, eficiência do material, sobras, peso e custos.
+* Salvar relatÃ³rios contendo diagramas de corte, tempo de usinagem, eficiÃªncia do material, sobras, peso e custos.
 
-* Importar peças do seu CAD (.DXF) ou sistema ERP (Arquivos CSV)
+* Importar peÃ§as do seu CAD (.DXF) ou sistema ERP (Arquivos CSV)
 
-* Não há necessidade de configurar backup, servidores, licenciamento, etc. As atualizações são instaladas automaticamente
+* NÃ£o hÃ¡ necessidade de configurar backup, servidores, licenciamento, etc. As atualizaÃ§Ãµes sÃ£o instaladas automaticamente
 
-* Suporte técnico via e-mail, chat e tutoriais para ajudá-lo a ter a melhor experiência
+* Suporte tÃ©cnico via e-mail, chat e tutoriais para ajudÃ¡-lo a ter a melhor experiÃªncia
 
-* Pague sua assinatura mensalmente, sem período mínimo ou taxas extras. Recursos diferentes de acordo com a sua necessidade.
+* Pague sua assinatura mensalmente, sem perÃ­odo mÃ­nimo ou taxas extras. Recursos diferentes de acordo com a sua necessidade.
 
-* Comece sua jornada com Otimize Nesting através dos nossos vídeos ou visitando [nosso site] (www.otimizenesting.com).
+* Comece sua jornada com Otimize Nesting atravÃ©s dos nossos vÃ­deos ou visitando [nosso site] (www.otimizenesting.com).
 
-# Otimize Nesting em Ação
+# Otimize Nesting em AÃ§Ã£o
 
 > [!Video https://www.youtube.com/embed/qkObXSedrNI?si=Yt649IZJtIs7P9Ku]
