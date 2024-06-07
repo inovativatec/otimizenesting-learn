@@ -20,4 +20,4 @@ Otimize Nesting é um software de nesting simples de utilizar, mas poderoso, que
 
 # Otimize Nesting em Ação
 
-> [!Vídeo https://www.youtube.com/embed/qkObXSedrNI?si=Yt649IZJtIs7P9Ku]
+> [!Video https://www.youtube.com/embed/qkObXSedrNI?si=Yt649IZJtIs7P9Ku]

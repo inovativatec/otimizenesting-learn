@@ -1,20 +1,23 @@
+# Primeiros Passos
 
-# Getting Started
+Otimize Nesting é um software de nesting simples de utilizar, mas poderoso, que funciona no seu computador e está disponível para Windows.
 
-Otimize Nesting is a lightweight but powerful nesting software which runs on your computer and is available for Windows.
+* Obtenha os melhores planos de corte usando otimização baseada em IA. Em segundos.
 
-Get the best cutting layouts using AI-based optimization. In seconds.
+* Exportar diagramas de corte para .DXF ou .PDF para visualização ou envio para a máquina de corte.
 
-Export cutting diagrams to .DXF or .PDF and then use your preferred G-Code generator or visually guide the machine operator.
+* Salvar relatórios contendo diagramas de corte, tempo de usinagem, eficiência do material, sobras, peso e custos.
 
-Save reports containing cutting diagrams, machining time, material efficiency, remnants, weight and costs.
+* Importar peças do seu CAD (.DXF) ou sistema ERP (Arquivos CSV)
 
-Import parts from your CAD (.DXF files) or ERP system (.CSV files)
+* Não há necessidade de configurar backup, servidores, licenciamento, etc. As atualizações são instaladas automaticamente
 
-No need to configure backup, servers, licensing, etc. Updates are installed automatically
+* Suporte técnico via e-mail, chat e tutoriais para ajudá-lo a ter a melhor experiência
 
-Email, chat and tutorials to assist you in having the best experience
+* Pague sua assinatura mensalmente, sem período mínimo ou taxas extras. Recursos diferentes de acordo com a sua necessidade.
 
-Pay your subscription monthly, with no minimum period or extra fees. Different features accordingly to you needs.
+* Comece sua jornada com Otimize Nesting através dos nossos vídeos ou visitando [nosso site] (www.otimizenesting.com).
 
-Begin your journey with Otimize Nesting by [creating your free account](creating-an-account.md) and doing real case experiments.
+# Otimize Nesting em Ação
+
+> [!Video https://www.youtube.com/embed/qkObXSedrNI?si=Yt649IZJtIs7P9Ku]
