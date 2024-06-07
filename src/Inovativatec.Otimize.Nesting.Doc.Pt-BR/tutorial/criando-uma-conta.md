@@ -1,10 +1,10 @@
 # Instalando o Otimize Nesting
-Instale o Otimize Nesting para começar a criar layouts de corte ideais.
+Instale o Otimize Nesting para comeÃ§ar a criar layouts de corte ideais.
 
 1. Clique em [https://download.otimizenesting.com/download/setup.exe/](https://download.otimizenesting.com/download/setup.exe) e baixe o arquivo setup.exe para o seu computador.
-2. Abra o arquivo para iniciar a instalação.
-3. Siga as instruções para concluir a instalação.
+2. Abra o arquivo para iniciar a instalaÃ§Ã£o.
+3. Siga as instruÃ§Ãµes para concluir a instalaÃ§Ã£o.
 
 ## Atualizando o Otimize Nesting
 
-O Otimize Nesting verifica automaticamente se há atualizações. Quando uma atualização estiver disponível, você será solicitado a instalá-la. O programa de instalação faz tudo por você.
+O Otimize Nesting verifica automaticamente se hÃ¡ atualizaÃ§Ãµes. Quando uma atualizaÃ§Ã£o estiver disponÃ­vel, vocÃª serÃ¡ solicitado a instalÃ¡-la. O programa de instalaÃ§Ã£o faz tudo por vocÃª.

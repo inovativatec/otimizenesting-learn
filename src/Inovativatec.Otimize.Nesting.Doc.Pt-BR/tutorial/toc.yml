@@ -5,7 +5,7 @@
   - name: Criar uma conta
     href: criando-uma-conta.md
   - name: Instalar o Software
-    href: instalando-otimize-nesting.md
+    href: instalar-otimize-nesting.md
 - name: Resolução de Problemas
   items:
   - name: Instalação Silverlight
