@@ -1,5 +1,5 @@
 
-# Getting started
+# Getting Started
 
 Otimize Nesting is a lightweight but powerful nesting software which runs on your computer and is available for Windows.
 
@@ -17,7 +17,7 @@ Otimize Nesting is a lightweight but powerful nesting software which runs on you
 
 * Pay your subscription monthly, with no minimum period or extra fees. Different features accordingly to you needs.
 
-* Begin your journey with Otimize Nesting with our introductory videos or visiting [our website](www.otimizenesting.com).
+* Begin your journey with Otimize Nesting with our videos or visiting [our website](www.otimizenesting.com).
 
 
 # Otimize Nesting in Action
