@@ -1,4 +1,4 @@
-﻿# Primeiros Passos
+# Primeiros Passos
 
 Otimize Nesting é um software de nesting simples de utilizar, mas poderoso, que funciona no seu computador e está disponível para Windows.
 

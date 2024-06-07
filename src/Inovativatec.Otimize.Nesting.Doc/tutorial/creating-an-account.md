@@ -1,4 +1,3 @@
-
 # Creating an account on Otimize Nesting
 Create an account to get started with Otimize Nesting.
 

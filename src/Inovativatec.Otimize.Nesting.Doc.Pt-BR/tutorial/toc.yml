@@ -1,15 +1,12 @@
-- name: Começando
+- name: Introdução
+  href: introducao.md
+- name: Primeiros Passos
   items:
-  - name: Primeiros Passos
-    href: primeirosPassos.md
-  # - name: Intro
-  #   href: intro.md
-  # - name: "HowTo: Filter Out Unwanted APIs"
-  #   href: howto_filter_out_unwanted_apis_attributes.md
-  # - name: Walkthrough Topics
-  #   href: walkthrough/toc.md
-  #   homepage: walkthrough/walkthrough_overview.md
-- name: Suporte
+  - name: Criar uma conta
+    href: criando-uma-conta.md
+  - name: Instalar o Software
+    href: instalar-otimize-nesting.md
+- name: Resolução de Problemas
   items:
   - name: Instalação Silverlight
     href: instalacaoSilverlight.md
