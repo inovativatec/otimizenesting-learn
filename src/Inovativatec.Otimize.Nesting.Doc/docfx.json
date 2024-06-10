@@ -18,6 +18,11 @@
     }
   ],
   "build": {
+    "sitemap": {
+      "baseUrl": "https://learn.otimizenesting.com",
+      "priority": 0.1,
+      "changefreq": "monthly"
+    },
     "content": [
       {
         "files": [
