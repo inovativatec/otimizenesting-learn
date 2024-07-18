@@ -1,10 +1,17 @@
-# Instalando o Otimize Nesting
-Instale o Otimize Nesting para começar a criar layouts de corte ideais.
+# Criando uma conta no Otimize Nesting
 
-1. Clique em [https://download.otimizenesting.com/download/setup.exe/](https://download.otimizenesting.com/download/setup.exe) e baixe o arquivo setup.exe para o seu computador.
-2. Abra o arquivo para iniciar a instalação.
-3. Siga as instruções para concluir a instalação.
+Para começar, você precisa criar uma conta no OtimizeNesting.com e verificar o seu endereço de email. Não é necessário cartão de crédito para criar a conta.
 
-## Atualizando o Otimize Nesting
+## Criar uma nova conta
 
-O Otimize Nesting verifica automaticamente se há atualizações. Quando uma atualização estiver disponível, você será solicitado a instalá-la. O programa de instalação faz tudo por você.
+1. Navegue para [https://app.otimizenesting.com](https://app.otimizenesting.com).
+2. Clique em "EXPERIMENTE"
+3. Siga os passos para criar a sua conta.
+
+Durante a criação, será solicitado verificar o seu endereço de e-mail. Sem esta verificação, você não poderá utilizar o Otimize Nesting.
+
+Se não receber o e-mail de verificação da conta, confira sua caixa de lixo eletrônico (spam).
+
+## Próximo passo
+
+Agora que você criou a sua conta, você vai [instalar o Otimize Nesting](instalar-otimize-nesting.md) no seu computador.
