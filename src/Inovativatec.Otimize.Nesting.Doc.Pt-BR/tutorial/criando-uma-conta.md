@@ -12,7 +12,7 @@ Durante a criação, será solicitado verificar o seu endereço de e-mail. Sem e
 
 Se não receber o e-mail de verificação da conta, confira sua caixa de lixo eletrônico (spam).
 
-O e-mail deve ser confirmado em no máximo 24 horas. Veja [como solicitar um novo e-mail de confirmação](confirmar.email.md).
+O e-mail deve ser confirmado em no máximo 24 horas. Veja [como solicitar um novo e-mail de confirmação](confirmar-email.md).
 
 ## Próximo passo
 
