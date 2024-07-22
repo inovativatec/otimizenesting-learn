@@ -8,5 +8,7 @@
     href: installing-otimize-nesting.md
 - name: TroubleShooting
   items:
+  - name: Email confirmation
+    href: email-confirmation.md
   - name: Silverlight Installation
     href: silverlightInstallation.md

@@ -8,5 +8,7 @@
     href: instalar-otimize-nesting.md
 - name: Resolução de Problemas
   items:
+  - name: Confirmação do e-mail
+    href: confirmar-email.md
   - name: Instalação Silverlight
     href: instalacaoSilverlight.md
