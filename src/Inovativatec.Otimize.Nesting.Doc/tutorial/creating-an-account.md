@@ -11,6 +11,8 @@ To get started with Otimize Nesting, you'll need to create a free account on Oti
 
 During sign-up, you'll be asked to verify your email address. Without a verified email address, you won't be able to use Otimize Nesting.
 
+The email must be confirmed within a maximum of 24 hours. Here's [how to request a new confirmation email](email-confirmation.md).
+
 ## Next step
 
 Now that you've created your account, you'll [install Otimize Nesting](installing-otimize-nesting.md) on your computer.
