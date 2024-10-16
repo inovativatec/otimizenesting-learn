@@ -1,4 +1,9 @@
-﻿# Primeiros Passos
+# Otimize Nesting em Ação
+
+> [!Video https://www.youtube.com/embed/qkObXSedrNI?si=Yt649IZJtIs7P9Ku]
+
+
+ # Visão Geral
 
 Otimize Nesting é um software de nesting simples de utilizar, mas poderoso, que funciona no seu computador e está disponível para Windows.
 
@@ -18,6 +23,3 @@ Otimize Nesting é um software de nesting simples de utilizar, mas poderoso, que
 
 * Comece sua jornada com Otimize Nesting através dos nossos vídeos ou visitando [nosso site] (www.otimizenesting.com).
 
-# Otimize Nesting em Ação
-
-> [!Video https://www.youtube.com/embed/qkObXSedrNI?si=Yt649IZJtIs7P9Ku]
