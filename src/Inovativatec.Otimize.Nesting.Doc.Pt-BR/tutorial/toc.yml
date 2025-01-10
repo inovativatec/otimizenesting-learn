@@ -6,6 +6,10 @@
     href: criando-uma-conta.md
   - name: Instalar o Software
     href: instalar-otimize-nesting.md
+- name: Guia de uso
+  items:
+  - name: Importar lista do Excel
+    href: importar-excel.md  
 - name: Resolução de Problemas
   items:
   - name: Confirmação do e-mail
