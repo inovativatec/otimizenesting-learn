@@ -6,6 +6,10 @@
     href: creating-an-account.md
   - name: Install the software
     href: installing-otimize-nesting.md
+- name: User Guide
+  items:
+  - name: Import from Excel
+    href: import-excel.md  
 - name: TroubleShooting
   items:
   - name: Email confirmation
