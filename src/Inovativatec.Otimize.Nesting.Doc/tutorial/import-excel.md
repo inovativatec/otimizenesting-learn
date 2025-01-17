@@ -1,9 +1,9 @@
 # Importing a Part List from Excel
-Otimize Nesting is a productivity software tool, first and foremost. It includes the features you need for highly productive part nesting creation.
+Otimize Nesting is a productivity software, first and foremost. It includes the features you need for highly productive part nesting creation.
 
-If there is a feature common to all productivity applications, it is the ability to read data from Excel spreadsheets. These spreadsheets are usually manually created, for example, in Microsoft Excel or automatically created by another software program.
+If there is a feature common to all productivity applications, it is the ability to read data from spreadsheets. These spreadsheets are usually manually created, for example, in Microsoft Excel or automatically created by another software program.
 
-This topic covers the basics of importing rectangular part lists and helps you save time.
+This topic helps you save time while importing rectangular part lists.
 
 > [!NOTE]
 > Special CAD or ERP systems can create digital files with part lists to improve system integration. If these files have the correct column configuration, they can be imported into Otimize Nesting.
@@ -52,7 +52,7 @@ Alternatively, [download this sample .csv file](./import-excel/SampleCSVPartList
 ## Part 2: Import the Part List File
 
 1.	Start Otimize Nesting.
-2.	Create a new or open an existing project. Go to the **Parts** tab.
+2.	Create a new project and chosse the material. Or open an existing project. Go to the **Parts** tab.
 3.	Select **Import Parts** -> **csv**.
 
 ![Import Parts](./import-excel/importExcelImportCSV.png)
@@ -62,7 +62,7 @@ Alternatively, [download this sample .csv file](./import-excel/SampleCSVPartList
 
 ![Import Page](./import-excel/importExcelImportPage.png)
 
-6.	Select **Import**. The parts will be added to the project, and the Part tab will be displayed again.
+6.	Select **Import**. The parts will be added to the project, and the **Parts** tab will be displayed again.
 
 ![Imported Parts](./import-excel/importExcelImportedParts.png)
 
