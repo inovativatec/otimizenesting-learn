@@ -1,23 +1,23 @@
 # Importing a Part List from Excel
 Otimize Nesting is a productivity software tool, first and foremost. It includes the features you need for highly productive part nesting creation.
 
-If there is a feature common to all productivity applications, it is the ability to read data from Excel spreadsheets. These spreadsheets are usually manually created, for example, in Microsoft Excel, or automatically created by another software program.
+If there is a feature common to all productivity applications, it is the ability to read data from Excel spreadsheets. These spreadsheets are usually manually created, for example, in Microsoft Excel or automatically created by another software program.
 
 This topic covers the basics of importing rectangular part lists and helps you save time.
 
 > [!NOTE]
 > Special CAD or ERP systems can create digital files with part lists to improve system integration. If these files have the correct column configuration, they can be imported into Otimize Nesting.
 
-There are two main steps to importing your existing part list into Otimize Nesting. The first step is to prepare the file, and the second part is to import the file using Otimize Nesting.
+Importing your existing part list into Otimize Nesting involves two main steps: preparing the file and importing it using Otimize Nesting.
 
 ## Part 1: Prepare the Part List File
 Prepare a spreadsheet containing the list of parts you want to produce. Otimize Nesting expects a given spreadsheet column position for each part information. The following image shows a sample part list.
 
-![Example Part List](./import-excel/importExcelPartList.png)
+![Example Part List](./import-excel/importExcelPartList.png "Part list example")
 
 The columns are as follows:
 
-**Description**: This is the first column of the file, and it contains the textual description of the part that must be produced. This text will be available on the nesting diagrams over the part's area.
+**Description**: This is the file's first column, containing the textual description of the part that must be produced. The nesting diagrams over the part's area will display this text.
 
 **Width**: Represents the width of the part to be produced. The length unit (millimeters, centimeters, inches) must match the one you selected in the software configuration.
 
@@ -25,7 +25,7 @@ The columns are as follows:
 
 **Quantity**: Represents the number of identical parts that will be produced.
 
-**Material**: This represents the name of the raw material this part will be produced from. During import, Otimize Nesting checks if this material already exists on the material list. If not, a new material record will be created with a default board size added.
+**Material**: This represents the name of the raw material from which this part will be produced. During import, Otimize Nesting checks if this material already exists on the material list. If not, a new material record with a default board size will be added.
 
 **Rotate/Grain**: If the column contains **1** (recommended for most scenarios), this part can be rotated in steps of 90 degrees so the optimizer can find a better layout.
 
@@ -43,7 +43,7 @@ When all the data is added to the spreadsheet, please save it to a file on your 
 You must save this file in CSV (Comma Separated Values) format:
 
 1.	Go to your spreadsheet in Microsoft Excel and select **File** -> **Save As**.
-2.	A dialog is shown. Select the desired folder, enter the file name, and make sure to select **CSV (Comma delimited) (*.csv)** save as type.
+2.	A dialog is shown. Select the desired folder, enter the file name, and select **CSV (Comma delimited) (*.csv)** save as type.
 
 ![Save Part List](./import-excel/importExcelSaveAs.png)
 
