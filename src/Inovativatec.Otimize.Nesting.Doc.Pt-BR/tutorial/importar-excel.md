@@ -1,83 +1,83 @@
-# Importar peÁas do Excel
+Ôªø# Importar pe√ßas do Excel
 
-O Otimize Nesting È, antes de tudo, um software de produtividade. Ele contÈm os recursos que vocÍ precisa para a criaÁ„o de planos de corte com efic·cia.
+O Otimize Nesting √©, antes de tudo, um software de produtividade. Ele cont√©m os recursos que voc√™ precisa para a cria√ß√£o de planos de corte com efic√°cia.
 
-Se h· um recurso comum a todos os aplicativos de produtividade, È a capacidade de ler dados de planilhas. Essas planilhas geralmente s„o criadas manualmente, por exemplo, no Microsoft Excel, ou automaticamente por outros programas.
+Se h√° um recurso comum a todos os aplicativos de produtividade, √© a capacidade de ler dados de planilhas. Essas planilhas geralmente s√£o criadas manualmente, por exemplo, no Microsoft Excel, ou automaticamente por outros programas.
 
-Este guia ajuda vocÍ a poupar tempo, fazendo a importaÁ„o de uma lista de peÁas retangulares.
+Este guia ajuda voc√™ a poupar tempo, fazendo a importa√ß√£o de uma lista de pe√ßas retangulares.
 
-> [!OBSERVA«√O] Software para projetos (CAD) ou alguns sistema de gest„o (ERP) podem gerar arquivos digitais com listas de peÁas para facilitar a integraÁ„o entre sistemas. Estes arquivos podem ser usados no Otimize Nesting, se estiverem na formataÁ„o correta.
+> [!OBSERVA√á√ÉO] Software para projetos (CAD) ou alguns sistema de gest√£o (ERP) podem gerar arquivos digitais com listas de pe√ßas para facilitar a integra√ß√£o entre sistemas. Estes arquivos podem ser usados no Otimize Nesting, se estiverem na formata√ß√£o correta.
 
-A importaÁ„o da sua lista de peÁas para o Otimize Nesting envolve duas etapas principais: preparar o arquivo com as informaÁıes e depois importar este arquivo utilizando o Otimize Nesting.
+A importa√ß√£o da sua lista de pe√ßas para o Otimize Nesting envolve duas etapas principais: preparar o arquivo com as informa√ß√µes e depois importar este arquivo utilizando o Otimize Nesting.
 
-## Parte 1: Preparar o arquivo com a lista de peÁas
+## Parte 1: Preparar o arquivo com a lista de pe√ßas
 
-Prepare uma planilha contendo a lista de peÁas que deseja produzir. O Otimize Nesting necessita que a planilha tenha um sequÍncia de colunas. A imagem a seguir mostra um exemplo desta planilha.
+Prepare uma planilha contendo a lista de pe√ßas que deseja produzir. O Otimize Nesting necessita que a planilha tenha um sequ√™ncia de colunas. A imagem a seguir mostra um exemplo desta planilha.
 
-![Exemplo de planilha com a lista de peÁas](./importar-excel/importarExcelListaExemplo.png "Exemplo de lista de peÁas")
+![Exemplo de planilha com a lista de pe√ßas](./importar-excel/importarExcelListaExemplo.png "Exemplo de lista de pe√ßas")
 
-As colunas da planilha s„o as seguintes:
+As colunas da planilha s√£o as seguintes:
 
-**DescriÁ„o**: Essa È a primeira coluna da planilha, que contÈm a descriÁ„o da peÁa que ser· produzida. O plano de corte vai posteriormente exibir esta informaÁ„o sobre cada peÁa.
+**Descri√ß√£o**: Essa √© a primeira coluna da planilha, que cont√©m a descri√ß√£o da pe√ßa que ser√° produzida. O plano de corte vai posteriormente exibir esta informa√ß√£o sobre cada pe√ßa.
 
-**Largura**: Largura da peÁa a ser produzida. A unidade de comprimento (milÌmetros, centÌmetros, polegadas) deve corresponder ‡ que vocÍ especificou na configuraÁ„o do software.
+**Largura**: Largura da pe√ßa a ser produzida. A unidade de comprimento (mil√≠metros, cent√≠metros, polegadas) deve corresponder √† que voc√™ especificou na configura√ß√£o do software.
 
-**Comprimento**: Comprimento da peÁa a ser produzida. A unidade de comprimento (milÌmetros, centÌmetros, polegadas) deve corresponder ‡ que vocÍ especificou na configuraÁ„o do software.
+**Comprimento**: Comprimento da pe√ßa a ser produzida. A unidade de comprimento (mil√≠metros, cent√≠metros, polegadas) deve corresponder √† que voc√™ especificou na configura√ß√£o do software.
 
-**Quantidade**: N˙mero de peÁas idÍnticas que ser„o produzidas.
+**Quantidade**: N√∫mero de pe√ßas id√™nticas que ser√£o produzidas.
 
-**Material**: Nome do material (matÈria-prima) que ser· utilizada para produzir a peÁa. Durante a importaÁ„o, o Otimize Nesting verifica se esse material j· existe na lista de materiais. Caso contr·rio, ser· adicionado um novo registro de material com um tamanho de chapa padr„o.
+**Material**: Nome do material (mat√©ria-prima) que ser√° utilizada para produzir a pe√ßa. Durante a importa√ß√£o, o Otimize Nesting verifica se esse material j√° existe na lista de materiais. Caso contr√°rio, ser√° adicionado um novo registro de material com um tamanho de chapa padr√£o.
 
-**RotaÁ„o/Veio**: Se a coluna contiver **1** (recomendado para a maioria dos casos), essa peÁa poder· ser rotacionada em passos de 90 graus para que o Otimize Nesting possa encontrar o melhor aproveitamento.
+**Rota√ß√£o/Veio**: Se a coluna contiver **1** (recomendado para a maioria dos casos), essa pe√ßa poder√° ser rotacionada em passos de 90 graus para que o Otimize Nesting possa encontrar o melhor aproveitamento.
 
-Essa opÁ„o deve ser definida como **1**, a menos que as peÁas que vocÍ produz sejam provenientes de um material com gr„os ou veios. Nesse caso, recomendamos deixar o valor dessa coluna igual a **0**.
+Essa op√ß√£o deve ser definida como **1**, a menos que as pe√ßas que voc√™ produz sejam provenientes de um material com gr√£os ou veios. Nesse caso, recomendamos deixar o valor dessa coluna igual a **0**.
 
-**Fita de borda**: As ˙ltimas quatro colunas indicam qual lado da peÁa receber· o material de acabamento (fita de borda) ou necessitam de uma operaÁ„o especial. A sequÍncia destes lados È a seguinte:
+**Fita de borda**: As √∫ltimas quatro colunas indicam qual lado da pe√ßa receber√° o material de acabamento (fita de borda) ou necessitam de uma opera√ß√£o especial. A sequ√™ncia destes lados √© a seguinte:
 
 - Superior
 - Direito
 - Inferior
 - Esquerda
 
-Quando todos os dados forem adicionados ‡ planilha, salve-a em um arquivo no seu computador. VocÍ deve salvar esse arquivo no formato CSV (Comma Separated Values, valores separados por vÌrgula):
+Quando todos os dados forem adicionados √† planilha, salve-a em um arquivo no seu computador. Voc√™ deve salvar esse arquivo no formato CSV (Comma Separated Values, valores separados por v√≠rgula):
 
-1. V· para a planilha no Microsoft Excel e selecione **Arquivo** -> **Salvar como**.
-2. Ser· exibida uma caixa de di·logo. Selecione a pasta desejada, digite o nome do arquivo e selecione o tipo **CSV (separado por vÌrgulas)**.
+1. V√° para a planilha no Microsoft Excel e selecione **Arquivo** -> **Salvar como**.
+2. Ser√° exibida uma caixa de di√°logo. Selecione a pasta desejada, digite o nome do arquivo e selecione o tipo **CSV (separado por v√≠rgulas)**.
 
-![Salvar lista de peÁas](./importar-excel/importarExcelSalvarComo.png)
+![Salvar lista de pe√ßas](./importar-excel/importarExcelSalvarComo.png)
 
-Como alternativa, [faÁa o download deste exemplo de arquivo .csv](./importar-excel/ExemploListaPecas.csv) com a formataÁ„o correta das colunas e use-o como modelo para suas listas de peÁas.
+Como alternativa, [fa√ßa o download deste exemplo de arquivo .csv](./importar-excel/ExemploListaPecas.csv) com a formata√ß√£o correta das colunas e use-o como modelo para suas listas de pe√ßas.
 
 ## Parte 2: Importar o arquivo
 
 1. Inicie o Otimize Nesting.
-2. Crie um projeto e escolha o material. Ou ent„o abra um projeto existente. V· para a aba **PeÁas**.
-3. Selecione **Importar peÁas** -> **csv**.
+2. Crie um projeto e escolha o material. Ou ent√£o abra um projeto existente. V√° para a aba **Pe√ßas**.
+3. Selecione **Importar pe√ßas** -> **csv**.
 
-![Importar peÁas](./importar-excel/importarExcelImportarCSV.png)
+![Importar pe√ßas](./importar-excel/importarExcelImportarCSV.png)
 
-4. A caixa de di·logo **Abrir** arquivo È exibida. Localize e selecione o arquivo .csv que vocÍ salvou anteriormente. Selecione **Abrir**.
-5. A p·gina **Importar arquivo** È exibida com a lista de peÁas.
+4. A caixa de di√°logo **Abrir** arquivo √© exibida. Localize e selecione o arquivo .csv que voc√™ salvou anteriormente. Selecione **Abrir**.
+5. A p√°gina **Importar arquivo** √© exibida com a lista de pe√ßas.
 
-![P·gina de importaÁ„o](./importar-excel/importarExcelPaginaImportacao.png)
+![P√°gina de importa√ß√£o](./importar-excel/importarExcelPaginaImportacao.png)
 
-6. Selecione **Importar**. As peÁas ser„o adicionadas ao projeto, e a aba **PeÁas** ser· exibida novamente.
+6. Selecione **Importar**. As pe√ßas ser√£o adicionadas ao projeto, e a aba **Pe√ßas** ser√° exibida novamente.
 
-![PeÁas importadas](./importar-excel/importarExcelPecasImportadas.png)
+![Pe√ßas importadas](./importar-excel/importarExcelPecasImportadas.png)
 
-## SoluÁ„o de problemas
+## Solu√ß√£o de problemas
 
-### ConfiguraÁıes regionais
+### Configura√ß√µes regionais
 
-Idiomas e regiıes diferentes podem usar caracteres de separaÁ„o de colunas diferentes para planilhas. Se houver erros na p·gina **Importar arquivo**:
+Idiomas e regi√µes diferentes podem usar caracteres de separa√ß√£o de colunas diferentes para planilhas. Se houver erros na p√°gina **Importar arquivo**:
 
 1. Selecione o separador correto
-2. Selecione **Atualizar** para ajudar a importaÁ„o novamente
+2. Selecione **Atualizar** para ajudar a importa√ß√£o novamente
 
 ![Selecione Separador](./importar-excel/importarExcelSeparadorColuna.png)
 
-### Linha com CabeÁalhos
+### Linha com Cabe√ßalhos
 
-As planilhas podem ter na primeira linha os nomes das colunas. Essa ou qualquer outra linha pode ser ignorada para evitar erros na importaÁ„o.
+As planilhas podem ter na primeira linha os nomes das colunas. Essa ou qualquer outra linha pode ser ignorada para evitar erros na importa√ß√£o.
 
 ![Ignorar linhas](./importar-excel/importarExcelIgnorarLinhas.png)
