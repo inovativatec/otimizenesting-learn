@@ -6,7 +6,7 @@ Se há um recurso comum a todos os aplicativos de produtividade, é a capacidade
 
 Este guia ajuda você a poupar tempo, fazendo a importação de uma lista de peças retangulares.
 
-> [!OBSERVACAO]
+> [!Note]
 > Software para projetos (CAD) ou alguns sistema de gestão (ERP) podem gerar arquivos digitais com listas de peças para facilitar a integração entre sistemas. Estes arquivos podem ser usados no Otimize Nesting, se estiverem na formatação correta.
 
 A importação da sua lista de peças para o Otimize Nesting envolve duas etapas principais: preparar o arquivo com as informações e depois importar este arquivo utilizando o Otimize Nesting.
