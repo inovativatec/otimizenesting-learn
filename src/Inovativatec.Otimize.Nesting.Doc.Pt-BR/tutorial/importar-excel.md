@@ -30,7 +30,7 @@ As colunas da planilha são as seguintes:
 **Material**: Nome do material ou chapa que será utilizada para produzir a peça. Durante a importação, o Otimize Nesting verifica se esse material já está no cadastro de materiais. Caso contrário, será adicionado um novo registro com o tamanho de chapa padrão.
 
 > [!Note]
-> Se o material já estiver no cadastro, suas configurações não serão atulizadas. Confira se as dimensões da chapa e a opeção de veio estão corretas após concluir a importação
+> Se o material já estiver no cadastro, suas configurações não serão atulizadas. Confira se as dimensões da chapa e a opção de veio estão corretas após concluir a importação.
 
 > [!Note]
 > O tamanho de chapa padrão é o tamanho que foi informado pelo utilizador na criação do último registro de material. É possível modificar este valor após a importação.
