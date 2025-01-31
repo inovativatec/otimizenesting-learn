@@ -27,9 +27,13 @@ The columns are as follows:
 
 **Material**: This represents the name of the raw material from which this part will be produced. During import, Otimize Nesting checks if this material already exists on the material list. If not, a new material record with a default board size will be added.
 
-**Rotate/Grain**: If the column contains **1** (recommended for most scenarios), this part can be rotated in steps of 90 degrees so the optimizer can find a better layout.
+> [!Note]
+> If the material is already registered, its settings will not be updated. After completing the import, check that the board dimensions and grain options are correct.
 
-This option should be set to **1** unless the parts you produce come from a material with grain or vein. If so, we recommend leaving this column value equal to **0**.
+> [!Note]
+> The default sheet size is the size entered by the user when creating the last material record. You can modify this value after import.
+
+**Directonal Grain**: Indicates if this material has a special finishing or grain where parts are cut in a way that respects the direction of the grain to ensure a consistent look across all pieces. This is particularly important for projects where aesthetics are crucial, such as furniture or cabinetry. If this column contains "0", the cutting optimizer will have more flexibility to find optimal cutting layouts.
 
 **Edge Band**: The last four columns indicate which side of the part will receive finishing material. In the case of furniture, for example, these indicate what sides of the part will receive an edge band. The order of these edge band sides is as follows:
 
