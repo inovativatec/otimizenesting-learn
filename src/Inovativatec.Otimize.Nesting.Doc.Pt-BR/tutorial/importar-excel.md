@@ -27,11 +27,15 @@ As colunas da planilha são as seguintes:
 
 **Quantidade**: Número de peças idênticas que serão produzidas.
 
-**Material**: Nome do material (matéria-prima) que será utilizada para produzir a peça. Durante a importação, o Otimize Nesting verifica se esse material já existe na lista de materiais. Caso contrário, será adicionado um novo registro de material com um tamanho de chapa padrão.
+**Material**: Nome do material ou chapa que será utilizada para produzir a peça. Durante a importação, o Otimize Nesting verifica se esse material já está no cadastro de materiais. Caso contrário, será adicionado um novo registro com o tamanho de chapa padrão.
 
-**Rotação/Veio**: Se a coluna contiver **1** (recomendado para a maioria dos casos), essa peça poderá ser rotacionada em passos de 90 graus para que o Otimize Nesting possa encontrar o melhor aproveitamento.
+> [!Note]
+> Se o material já estiver no cadastro, suas configurações não serão atulizadas. Confira se as dimensões da chapa e a opção de veio estão corretas após concluir a importação.
 
-Essa opção deve ser definida como **1**, a menos que as peças que você produz sejam provenientes de um material com grãos ou veios. Nesse caso, recomendamos deixar o valor dessa coluna igual a **0**.
+> [!Note]
+> O tamanho de chapa padrão é o tamanho que foi informado pelo utilizador na criação do último registro de material. É possível modificar este valor após a importação.
+
+**Veio Direcional**: Indica se este material tem um acabamento ou veio especial onde as peças são cortadas de forma a respeitar a direção do veio para garantir uma aparência consistente em todas as peças. Esta opção é particularmente importante para projetos onde a estética é crucial, como móveis ou marcenaria. Se esta coluna contiver "0", o otimizador de corte terá mais flexibilidade para encontrar layouts de corte ideais.
 
 **Fita de borda**: As últimas quatro colunas indicam qual lado da peça receberá o material de acabamento (fita de borda) ou necessitam de uma operação especial. A sequência destes lados é a seguinte:
 
