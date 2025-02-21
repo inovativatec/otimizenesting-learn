@@ -1,7 +1,7 @@
-﻿- name: Descubra
-  href: index.md
-- name: Tutorial
+﻿- name: Guia de Uso
   href: tutorial/
+# - name: Tutorial
+#   href: tutorial/
 # - name: Documentação da API
 #   href: obj/api/
 #   homepage: api/index.md

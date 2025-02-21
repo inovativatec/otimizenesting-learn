@@ -10,6 +10,8 @@
   items:
   - name: Importar lista do Excel
     href: importar-excel.md  
+  - name: Editar material
+    href: editar-material.md  
 - name: Resolução de Problemas
   items:
   - name: Confirmação do e-mail

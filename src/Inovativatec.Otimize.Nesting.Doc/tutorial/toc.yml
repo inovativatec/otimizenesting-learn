@@ -10,6 +10,9 @@
   items:
   - name: Import from Excel
     href: import-excel.md  
+  - name: Edit material
+    href: edit-material.md  
+
 - name: TroubleShooting
   items:
   - name: Email confirmation
