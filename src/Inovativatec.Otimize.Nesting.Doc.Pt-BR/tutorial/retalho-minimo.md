@@ -1,17 +1,17 @@
-# Configuração de Retalho Mínimo
+# ConfiguraÃ§Ã£o de Retalho MÃ­nimo
 
-O valor de retalho mínimo permite que você saiba quais sobras de material são úteis para uso futuro e quais são consideradas sucata. Ao definir esse valor, você pode ver os resultados da otimização separados entre sucatas e retalhos.
+O valor de retalho mÃ­nimo permite que vocÃª saiba quais sobras de material sÃ£o Ãºteis para uso futuro e quais sÃ£o consideradas sucata. Ao definir esse valor, vocÃª pode ver os resultados da otimizaÃ§Ã£o separados entre sucatas e retalhos.
 
-## Como Definir o Valor de Retalho Mínimo
+## Como Definir o Valor de Retalho MÃ­nimo
 
-1. Abra a janela de configurações no Otimize Nesting.
-2. Selecione a opção *retalhos*.
-3. Informe o tamanho mínimo desejado para o retalho.
+1. Abra a janela de configuraÃ§Ãµes no Otimize Nesting.
+2. Selecione a opÃ§Ã£o *retalhos*.
+3. Informe o tamanho mÃ­nimo desejado para o retalho.
 
-![Configuração de retalho mínimo](./minimal-leftover/minimal-leftover.png "Configuração de retalho mínimo")
+![ConfiguraÃ§Ã£o de retalho mÃ­nimo](./retalho-minimo/retalho-minimo.png "ConfiguraÃ§Ã£o de retalho mÃ­nimo")
 
-No exemplo acima, qualquer sobra menor (largura ou comprimento) que 250 mm será automaticamente classificada como sucata. Retalhos iguais ou maiores que o valor mínimo definido serão considerados reutilizáveis.
+No exemplo acima, qualquer sobra menor (largura ou comprimento) que 250 mm serÃ¡ automaticamente classificada como sucata. Retalhos iguais ou maiores que o valor mÃ­nimo definido serÃ£o considerados reutilizÃ¡veis.
 
-## Como o retalho mínimo influencia a geração de etiquetas adesivas
+## Como o retalho mÃ­nimo influencia a geraÃ§Ã£o de etiquetas adesivas
 
-O Otimize Nesting gera etiquetas adesivas para as peças e retalhos. Etiquetas para sucatas **não** são geradas, garantindo que apenas peças realmente utilizáveis sejam etiquetadas para uso futuro.
+O Otimize Nesting gera etiquetas adesivas para as peÃ§as e retalhos. Etiquetas para sucatas **nÃ£o** sÃ£o geradas, garantindo que apenas peÃ§as realmente utilizÃ¡veis sejam etiquetadas para uso futuro.
