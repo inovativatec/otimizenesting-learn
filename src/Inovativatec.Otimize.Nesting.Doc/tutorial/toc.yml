@@ -12,6 +12,8 @@
     href: import-excel.md  
   - name: Edit material
     href: edit-material.md  
+  - name: Leftover
+    href: minimal-leftover.md  
 
 - name: TroubleShooting
   items:

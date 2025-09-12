@@ -12,6 +12,9 @@
     href: importar-excel.md  
   - name: Editar material
     href: editar-material.md  
+  - name: Retalhos
+    href: retalho-minimo.md  
+
 - name: Resolução de Problemas
   items:
   - name: Confirmação do e-mail
