@@ -1,28 +1,18 @@
-# Otimize Nesting em Ação
+![Exemplo de Lista de Peças](/index/otimizeNestingLogoHorizontal.png)
 
-> [!Video https://www.youtube.com/embed/qkObXSedrNI?si=Yt649IZJtIs7P9Ku]
+# O que é o Otimize Nesting?
 
+O Otimize Nesting oferece aos fabricantes uma tecnologia de otimização que transforma chapas brutas em planos de corte precisos, maximizando o aproveitamento, minimizando a sucata e economizando tempo. Seja trabalhando com metal, madeira ou chapas, nossa solução entrega eficácia e redução de custos.
 
- # O que é o Otimize Nesting?
+![Exemplo de Lista de Peças](/index/otimizeNestingScreenshot.png)
 
-Otimize Nesting é um software de nesting simples de utilizar, mas poderoso, que funciona no seu computador e está disponível para Windows.
+# Por onde começar?
 
-* Obtenha os melhores planos de corte usando otimização baseada em IA. Em segundos.
+Se esta é sua primeira vez usando o Otimize Nesting, consulte o guia de [criação de conta](tutorial/criando-uma-conta.md).
 
-* Exportar diagramas de corte para .DXF ou .PDF para visualização ou envio para a máquina de corte.
+Se você já instalou o Otimize Nesting e está procurando mais informações, consulte nossos [artigos](tutorial/introducao.md).
 
-* Salvar relatórios contendo diagramas de corte, tempo de usinagem, eficiência do material, sobras, peso e custos.
+# Dúvidas?
+As perguntas frequentes estão cobertas na FAQ. Leia atentamente, pois as dúvidas mais comuns já estão respondidas lá.
 
-* Importar peças em .DXF, DWG ou .CSV.
-
-* Não há necessidade de configurar backup, servidores, licenciamento, etc. As atualizações são instaladas automaticamente
-
-* Suporte técnico via e-mail, chat e tutoriais para ajudá-lo a ter a melhor experiência
-
-* Pague sua assinatura mensalmente, sem período mínimo ou taxas extras. Recursos diferentes de acordo com a sua necessidade.
-
-* Comece sua jornada com Otimize Nesting através dos nossos vídeos ou visitando [!nosso site https://www.otimizenesting.com].
-
-## Próximo passo
-
-Agora que você já sabe o que é o Otimize Nesting, [crie sua conta](tutorial/criando-uma-conta.md).
+Se ainda restarem dúvidas após ler a FAQ, suporte adicional está disponível em [https://www.otimizenesting.com.br](https://www.otimizenesting.com.br).
