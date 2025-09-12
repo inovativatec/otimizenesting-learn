@@ -2,7 +2,7 @@
 
 > [!Video https://www.youtube.com/embed/OvhPKvECAQQ?si=BIuEfmhmWR6qW9R9]
 
-# Getting Started
+# What is Otimize Nesting?
 
 Otimize Nesting is a lightweight but powerful nesting software which runs on your computer and is available for Windows.
 
@@ -12,12 +12,16 @@ Otimize Nesting is a lightweight but powerful nesting software which runs on you
 
 * Save reports containing cutting diagrams, machining time, material efficiency, remnants, weight and costs.
 
-* Import parts from your CAD (.DXF files) or ERP system (.CSV files)
+* Import parts from your .DXF, .DWG or .CSV files
 
-* No need to configure backup, servers, licensing, etc. Updates are installed automatically
+* Updates are installed automatically. No need to configure backup, servers, licensing, etc.
 
 * Email, chat and tutorials to assist you in having the best experience
 
 * Pay your subscription monthly, with no minimum period or extra fees. Different features according to your needs.
 
-* Begin your journey with Otimize Nesting with our videos or by visiting [our website](www.otimizenesting.com).
+* Begin your journey with Otimize Nesting with our videos or by visiting [our website] (www.otimizenesting.com).
+
+## Next step
+
+Now that you know what is Otimize Nesting, [create your account](creating-an-account.md).
