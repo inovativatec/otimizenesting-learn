@@ -1,4 +1,6 @@
-![Example Part List](/index/otimizeNestingLogoHorizontal.png)
+<div align="center">
+  <img src="/index/otimizeNestingLogoHorizontal.png" alt="Sample part list">
+</div>
 
 # What is Otimize Nesting?
 
