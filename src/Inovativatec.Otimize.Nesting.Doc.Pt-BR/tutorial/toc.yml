@@ -14,7 +14,10 @@
     href: editar-material.md  
   - name: Retalhos
     href: retalho-minimo.md  
-
+name: Terminologia
+  items:
+  - name: Termos comuns
+    href: terminologia.md
 - name: Resolução de Problemas
   items:
   - name: Confirmação do e-mail

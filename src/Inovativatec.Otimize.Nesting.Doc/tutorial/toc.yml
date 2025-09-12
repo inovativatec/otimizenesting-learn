@@ -14,7 +14,10 @@
     href: edit-material.md  
   - name: Leftover
     href: minimal-leftover.md  
-
+- name: Terminology
+  items:
+  - name: Common Terms
+    href: terminology.md
 - name: TroubleShooting
   items:
   - name: Email confirmation

@@ -1,28 +1,14 @@
-# Otimize Nesting in Action
-
-> [!Video https://www.youtube.com/embed/OvhPKvECAQQ?si=BIuEfmhmWR6qW9R9]
-
 # What is Otimize Nesting?
 
 Otimize Nesting is a lightweight but powerful nesting software which runs on your computer and is available for Windows.
 
-* Get the best cutting layouts using AI-based optimization in seconds.
+# Where to begin?
 
-* Export cutting diagrams to DXF or PDF and then use your preferred G-Code generator or visually guide the machine operator.
+If this is your first time using Otimize Nesting, you should refer to the [account creation](tutorial/creating-an-account.md).
 
-* Save reports containing cutting diagrams, machining time, material efficiency, remnants, weight and costs.
+If you already managed to install Otimize Nesting and looking for guidance, you should refer to the [guides](tutorial/overview.md).
 
-* Import parts from your .DXF, .DWG or .CSV files
+# Questions?
+Frequently asked questions are covered in the FAQ. Read it thoroughly because most common questions are already answered there.
 
-* No need to configure backup, servers, licensing, etc. Updates are installed automatically
-
-* Email, chat and tutorials to assist you in having the best experience
-
-* Pay your subscription monthly, with no minimum period or extra fees. Different features according to your needs.
-
-* Begin your journey with Otimize Nesting with our videos or by visiting [!our web site https://www.otimizenesting.com]
-
-## Next step
-
-Now that you know what is Otimize Nesting, [create your account](tutorial/creating-an-account.md).
-
+If you still have unanswered questions after reading the FAQ, further support is available on [https://www.otimizenesting.com](https://www.otimizenesting.com).
