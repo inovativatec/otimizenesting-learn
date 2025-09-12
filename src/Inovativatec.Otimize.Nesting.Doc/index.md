@@ -2,6 +2,8 @@
 
 Otimize Nesting is a lightweight but powerful nesting software which runs on your computer and is available for Windows.
 
+Otimize Nesting empowers fabricators with intelligent nesting technology that transforms raw sheet material into precision-cut layouts, maximizing yield, minimizing scrap, and saving time. Whether you're working with metal, wood, or composites, our solution delivers optimized cutting plans that boost efficiency and reduce costs.
+
 # Where to begin?
 
 If this is your first time using Otimize Nesting, you should refer to the [account creation](tutorial/creating-an-account.md).
