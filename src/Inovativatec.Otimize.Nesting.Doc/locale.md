@@ -1,4 +1,6 @@
-
+---
+sitemap: false
+---
 # Select a language
 
 Current Selection: English
