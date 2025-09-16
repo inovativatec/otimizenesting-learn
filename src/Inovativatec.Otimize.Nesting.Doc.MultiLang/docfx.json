@@ -20,36 +20,36 @@
     "content": [
       {
         "files": ["api/**.yml"],
-        "cwd": "en-US/obj"
+        "cwd": "en-us/obj"
       },
       {
         "files": ["api/**.yml"],
-        "cwd": "pt-BR/obj"
+        "cwd": "pt-br/obj"
       },
       {
         "files": ["api/*.md", "articles/**.md", "tutorial/**.md", "tutorial/**.yml", "toc.yml", "*.md"],
-        "cwd": "en-US",
+        "cwd": "en-us",
         "exclude": ["obj/**", "_site/**"]
       },
       {
         "files": ["api/*.md", "articles/**.md", "tutorial/**.md", "tutorial/**.yml", "toc.yml", "*.md"],
-        "cwd": "pt-BR",
+        "cwd": "pt-br",
         "exclude": ["obj/**", "_site/**"]
       }
     ],
     "resource": [
-      { "files": ["**/*.png", "images/**", "favicon.ico"], "cwd": "en-US", "exclude": ["obj/**", "_site/**"] },
-      { "files": ["**/*.png", "images/**", "favicon.ico"], "cwd": "pt-BR", "exclude": ["obj/**", "_site/**"] }
+      { "files": ["**/*.png", "images/**", "favicon.ico"], "cwd": "en-us", "exclude": ["obj/**", "_site/**"] },
+      { "files": ["**/*.png", "images/**", "favicon.ico"], "cwd": "pt-br", "exclude": ["obj/**", "_site/**"] }
     ],
     "overwrite": [
-      { "files": ["apidoc/**.md"], "cwd": "en-US", "exclude": ["obj/**", "_site/**"] },
-      { "files": ["apidoc/**.md"], "cwd": "pt-BR", "exclude": ["obj/**", "_site/**"] }
+      { "files": ["apidoc/**.md"], "cwd": "en-us", "exclude": ["obj/**", "_site/**"] },
+      { "files": ["apidoc/**.md"], "cwd": "pt-br", "exclude": ["obj/**", "_site/**"] }
     ],
     "postProcessors": ["ExtractSearchIndex"],
     "globalMetadata": {
       "_enableSearch": "true"
     },
     "dest": "_site",
-    "template": ["default", "en-US/templates/otimize", "pt-BR/templates/otimize"]
+    "template": ["default", "en-us/templates/otimize", "pt-br/templates/otimize"]
   }
 }
