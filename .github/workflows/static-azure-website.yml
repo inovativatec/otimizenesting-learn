@@ -34,10 +34,8 @@ jobs:
           CI: true
       - name: build documentation
         run: |
-          docfx build src/Inovativatec.Otimize.Nesting.Doc/docfx.json
-      - name: build documentation pt-BR
-        run: |
-          docfx build src/Inovativatec.Otimize.Nesting.Doc.Pt-BR/docfx.json
+          docfx build src/Inovativatec.Otimize.Nesting.MultiLang/docfx.json
+      - name: build documentation multi language
       - name: publish results
         uses: actions/upload-artifact@v4
         with:
