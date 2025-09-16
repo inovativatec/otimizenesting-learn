@@ -39,7 +39,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: _site
-          path: src/Inovativatec.Otimize.Nesting.Doc/_site/
+          path: src/Inovativatec.Otimize.Nesting.Doc.MultiLang/_site/
   
   deploy-stage:
     runs-on: ubuntu-latest
