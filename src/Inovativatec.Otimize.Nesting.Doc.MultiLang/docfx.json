@@ -50,6 +50,6 @@
       "_enableSearch": "true"
     },
     "dest": "_site",
-    "template": ["default", "templates/otimize"]
+    "template": ["default", "en-US/templates/otimize", "pt-BR/templates/otimize"]
   }
 }
