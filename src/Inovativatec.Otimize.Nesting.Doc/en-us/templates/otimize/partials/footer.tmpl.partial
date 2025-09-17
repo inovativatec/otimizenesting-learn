@@ -10,7 +10,7 @@
       {{{_appFooter}}}
       {{^_appFooter}}
         {{#_ptBr}}
-          <a href="{{_rel}}locale.html">Português (Brasil)</a>
+          <a href="{{_rel}}pt-br/locale.html">Português (Brasil)</a>
         {{/_ptBr}}
         {{#_enUs}}
           <a href="{{_rel}}locale.html">English</a>
