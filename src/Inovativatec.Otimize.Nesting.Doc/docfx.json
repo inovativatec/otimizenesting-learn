@@ -11,30 +11,47 @@
       "dest": "obj/api"
     }
   ],
-  "build": [
-    {
-      "content": [
-        {
-          "src": "en-us",
-          "dest": "en-us"
-        }
-      ],
-      "template": [
-        "en-us/templates/otimize"
-      ],
-      "dest": "_site/en-us"
+  "build": {
+    "sitemap": {
+      "baseUrl": "https://learn.otimizenesting.com",
+      "priority": 0.1,
+      "changefreq": "daily"
     },
-    {
-      "content": [
-        {
-          "src": "pt-br",
-          "dest": "pt-br"
-        }
-      ],
-      "template": [
-        "pt-br/templates/otimize"
-      ],
-      "dest": "_site/pt-br"
-    }
-  ]
+    "content": [
+      {
+        "files": ["api/**.yml"],
+        "cwd": "en-us/obj"
+      },
+      {
+        "files": ["api/**.yml"],
+        "cwd": "pt-br/obj",
+        "dest": "pt-br"
+      },
+      {
+        "files": ["api/*.md", "articles/**.md", "tutorial/**.md", "tutorial/**.yml", "toc.yml", "*.md"],
+        "cwd": "en-us",
+        "exclude": ["obj/**", "_site/**"]
+      },
+      {
+        "files": ["api/*.md", "articles/**.md", "tutorial/**.md", "tutorial/**.yml", "toc.yml", "*.md"],
+        "cwd": "pt-br",
+        "exclude": ["obj/**", "_site/**"],
+        "dest": "pt-br"
+      }
+    ],
+    "resource": [
+      { "files": ["**/*.png", "images/**", "favicon.ico"], "cwd": "en-us", "exclude": ["obj/**", "_site/**"] },
+      { "files": ["**/*.png", "images/**", "favicon.ico"], "cwd": "pt-br", "exclude": ["obj/**", "_site/**"], "dest": "pt-br" }
+    ],
+    "overwrite": [
+      { "files": ["apidoc/**.md"], "cwd": "en-us", "exclude": ["obj/**", "_site/**"] },
+      { "files": ["apidoc/**.md"], "cwd": "pt-br", "exclude": ["obj/**", "_site/**"], "dest": "pt-br" }
+    ],
+    "postProcessors": ["ExtractSearchIndex"],
+    "globalMetadata": {
+      "_enableSearch": "true"
+    },
+    "dest": "_site",
+    "template": ["default", "en-us/templates/otimize", "pt-br/templates/otimize"]
+  }
 }
