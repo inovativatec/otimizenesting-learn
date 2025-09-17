@@ -20,8 +20,7 @@
     "content": [
       {
         "files": ["api/**.yml"],
-        "cwd": "en-us/obj",
-        "dest": "en-us"
+        "cwd": "en-us/obj"
       },
       {
         "files": ["api/**.yml"],
@@ -31,8 +30,7 @@
       {
         "files": ["api/*.md", "articles/**.md", "tutorial/**.md", "tutorial/**.yml", "toc.yml", "*.md"],
         "cwd": "en-us",
-        "exclude": ["obj/**", "_site/**"],
-        "dest": "en-us"
+        "exclude": ["obj/**", "_site/**"]
       },
       {
         "files": ["api/*.md", "articles/**.md", "tutorial/**.md", "tutorial/**.yml", "toc.yml", "*.md"],
@@ -42,11 +40,11 @@
       }
     ],
     "resource": [
-      { "files": ["**/*.png", "images/**", "favicon.ico"], "cwd": "en-us", "exclude": ["obj/**", "_site/**"], "dest": "en-us" },
+      { "files": ["**/*.png", "images/**", "favicon.ico"], "cwd": "en-us", "exclude": ["obj/**", "_site/**"] },
       { "files": ["**/*.png", "images/**", "favicon.ico"], "cwd": "pt-br", "exclude": ["obj/**", "_site/**"], "dest": "pt-br" }
     ],
     "overwrite": [
-      { "files": ["apidoc/**.md"], "cwd": "en-us", "exclude": ["obj/**", "_site/**"], "dest": "en-us" },
+      { "files": ["apidoc/**.md"], "cwd": "en-us", "exclude": ["obj/**", "_site/**"] },
       { "files": ["apidoc/**.md"], "cwd": "pt-br", "exclude": ["obj/**", "_site/**"], "dest": "pt-br" }
     ],
     "postProcessors": ["ExtractSearchIndex"],
