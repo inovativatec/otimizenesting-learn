@@ -51,6 +51,14 @@
     "globalMetadata": {
       "_enableSearch": "true"
     },
+    "fileMetadata": {
+      "_ptBr": {
+        "pt-br/**": true
+      },
+      "_enUs": {
+        "en-us/**": true
+      }
+    },
     "dest": "_site",
     "template": ["default", "en-us/templates/otimize", "pt-br/templates/otimize"]
   }

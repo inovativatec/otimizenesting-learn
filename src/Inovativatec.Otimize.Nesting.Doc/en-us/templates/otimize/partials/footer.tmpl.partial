@@ -8,7 +8,17 @@
         <a href="#top">{{__global.backToTop}}</a>
       </span>
       {{{_appFooter}}}
-      {{^_appFooter}}<a href="{{_rel}}locale.html">English</a>{{/_appFooter}}
+      {{^_appFooter}}
+        {{#_ptBr}}
+          <a href="{{_rel}}locale.html">Português (Brasil)</a>
+        {{/_ptBr}}
+        {{#_enUs}}
+          <a href="{{_rel}}locale.html">English</a>
+        {{/_enUs}}
+        {{^_ptBr}}{{^_enUs}}
+          <a href="{{_rel}}locale.html">English</a>
+        {{/_enUs}}{{/_ptBr}}
+      {{/_appFooter}}
     </div>
   </div>
 </footer>
