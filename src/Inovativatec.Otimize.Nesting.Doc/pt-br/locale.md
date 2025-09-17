@@ -5,4 +5,4 @@ sitemap: false
 
 Seleção Atual: Português (Brasil)
 
-[English](/)
+[English](../)

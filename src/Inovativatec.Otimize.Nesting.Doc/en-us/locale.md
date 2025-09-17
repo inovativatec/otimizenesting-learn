@@ -5,4 +5,4 @@ sitemap: false
 
 Current Selection: English
 
-[Português (Brasil)](../pt-BR/)
+[Português (Brasil)](pt-BR/)
