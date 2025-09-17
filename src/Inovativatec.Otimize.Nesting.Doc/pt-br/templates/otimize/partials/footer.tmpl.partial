@@ -13,7 +13,7 @@
           <a href="{{_rel}}locale.html">Português (Brasil)</a>
         {{/_ptBr}}
         {{#_enUs}}
-          <a href="{{_rel}}pt-br/locale.html">English</a>
+          <a href="{{_rel}}locale.html">English</a>
         {{/_enUs}}
         {{^_ptBr}}{{^_enUs}}
           <a href="{{_rel}}locale.html">Português (Brasil)</a>
