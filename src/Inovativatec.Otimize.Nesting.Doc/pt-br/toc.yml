@@ -1,4 +1,5 @@
-﻿- name: Guia de Uso
+﻿homepage: tutorial/index.md
+- name: Guia de Uso
   href: tutorial/
 # - name: Tutorial
 #   href: tutorial/
