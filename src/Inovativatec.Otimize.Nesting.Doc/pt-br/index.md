@@ -1,3 +1,7 @@
+---
+_disableToc: true
+---
+
 <div align="center">
   <img src="/index/otimizeNestingLogoHorizontal.png" alt="Exemplo de Lista de Peças">
 </div>

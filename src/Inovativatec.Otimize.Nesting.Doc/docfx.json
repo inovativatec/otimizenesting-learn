@@ -3,9 +3,9 @@
     {
       "src": [
         {
-          "files": ["*.csproj"],
+          "files": [ "*.csproj" ],
           "cwd": ".",
-          "exclude": ["**/obj/**", "**/bin/**", "_site/**"]
+          "exclude": [ "**/obj/**", "**/bin/**", "_site/**" ]
         }
       ],
       "dest": "obj/api"
@@ -19,35 +19,49 @@
     },
     "content": [
       {
-        "files": ["api/**.yml"],
-        "cwd": "en-us/obj"
+        "files": [ "api/**.yml" ],
+        "src": "obj",              // picks up obj/api/*.yml
+        "dest": "api"
       },
       {
-        "files": ["api/**.yml"],
-        "cwd": "pt-br/obj",
-        "dest": "pt-br"
+        "files": [ "api/*.md", "articles/**.md", "tutorial/**.md", "tutorial/**.yml", "toc.yml", "*.md" ],
+        "src": "en-us",
+        "exclude": [ "obj/**", "_site/**" ]
       },
       {
-        "files": ["api/*.md", "articles/**.md", "tutorial/**.md", "tutorial/**.yml", "toc.yml", "*.md"],
-        "cwd": "en-us",
-        "exclude": ["obj/**", "_site/**"]
-      },
-      {
-        "files": ["api/*.md", "articles/**.md", "tutorial/**.md", "tutorial/**.yml", "toc.yml", "*.md"],
-        "cwd": "pt-br",
-        "exclude": ["obj/**", "_site/**"],
+        "files": [ "api/*.md", "articles/**.md", "tutorial/**.md", "tutorial/**.yml", "toc.yml", "*.md" ],
+        "src": "pt-br",
+        "exclude": [ "obj/**", "_site/**" ],
         "dest": "pt-br"
       }
     ],
     "resource": [
-      { "files": ["**/*.png", "images/**", "favicon.ico"], "cwd": "en-us", "exclude": ["obj/**", "_site/**"] },
-      { "files": ["**/*.png", "images/**", "favicon.ico"], "cwd": "pt-br", "exclude": ["obj/**", "_site/**"], "dest": "pt-br" }
+      {
+        "files": [ "**/*.png", "images/**", "favicon.ico" ],
+        "src": "en-us",
+        "exclude": [ "obj/**", "_site/**" ]
+      },
+      {
+        "files": [ "**/*.png", "images/**", "favicon.ico" ],
+        "src": "pt-br",
+        "exclude": [ "obj/**", "_site/**" ],
+        "dest": "pt-br"
+      }
     ],
     "overwrite": [
-      { "files": ["apidoc/**.md"], "cwd": "en-us", "exclude": ["obj/**", "_site/**"] },
-      { "files": ["apidoc/**.md"], "cwd": "pt-br", "exclude": ["obj/**", "_site/**"], "dest": "pt-br" }
+      {
+        "files": [ "apidoc/**.md" ],
+        "src": "en-us",
+        "exclude": [ "obj/**", "_site/**" ]
+      },
+      {
+        "files": [ "apidoc/**.md" ],
+        "src": "pt-br",
+        "exclude": [ "obj/**", "_site/**" ],
+        "dest": "pt-br"
+      }
     ],
-    "postProcessors": ["ExtractSearchIndex"],
+    "postProcessors": [ "ExtractSearchIndex" ],
     "globalMetadata": {
       "_enableSearch": "true"
     },
@@ -60,6 +74,6 @@
       }
     },
     "dest": "_site",
-    "template": ["default", "en-us/templates/otimize", "pt-br/templates/otimize"]
+    "template": [ "default", "en-us/templates/otimize", "pt-br/templates/otimize" ]
   }
 }
